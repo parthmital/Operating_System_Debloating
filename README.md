@@ -104,8 +104,8 @@ The table below summarizes the main quantitative trends (values are representati
 
 | Category | RAM reduction (approx.) | Boot time reduction (approx.) | Telemetry reduction (approx.) | Notes |
 | :-- | :-- | :-- | :-- | :-- |
-| Windows 10 Pro | ~36% | ~31% | ~67% fewer endpoints | Large gains; stock system heavily bloated.[^2] |
-| Windows 11 Pro | ~39% | ~32% | up to ~80% fewer endpoints | Similar pattern to Windows 10 with newer stack.[^2] |
+| Windows 10 Pro | ~36% | ~31% | ~67% fewer endpoints | Large gains; stock system heavily bloated. |
+| Windows 11 Pro | ~39% | ~32% | up to ~80% fewer endpoints | Similar pattern to Windows 10 with newer stack. |
 | Windows 10 LTSC | ~15–20% | ~10% | ~50% fewer endpoints | Already lean; smaller but real gains. |
 | Custom Windows builds | ~50–60% | ~45–48% | near 100% at idle | Maximum performance, but with feature/update trade-offs. |
 | Linux Mint / Ubuntu | ~20–32% | ~20–30% | minimal to none | Started lean; telemetry already low. |
